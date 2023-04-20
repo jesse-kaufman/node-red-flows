@@ -250,13 +250,6 @@
         }
     },
     {
-        "id": "d6749de4904a2840",
-        "type": "ui_tab",
-        "name": "Tab 1",
-        "icon": "dashboard",
-        "order": 1
-    },
-    {
         "id": "cf54c2a69b021bd9",
         "type": "inject",
         "z": "e5cbeeb2fc1202c7",
